@@ -81,6 +81,7 @@
                 "z-index": "10001",
                 "text-transform": "lowercase",
                 "text-shadow": "none",
+                "pointer-events": "none",
             }
 
             if (this.options.fontBorder ) {
